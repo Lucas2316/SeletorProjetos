@@ -21,6 +21,9 @@
 body{
     overflow-x: hidden;
 }
+.corPreto a:focus{
+    color: orangered;
+}
 #pagina1{
     width: 100vw;
     height: auto;
